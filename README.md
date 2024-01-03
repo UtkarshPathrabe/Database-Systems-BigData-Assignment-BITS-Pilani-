@@ -1,4 +1,5 @@
-Database-Systems-BigData-Assignment-BITS-Pilani-
-================================================
+Comparative Analysis of NoSQL (HBase) and RDBMS (Oracle SQL) Databases
+======================================================================
 
-Contains the BIG DATA Assignment Files and detailed explanation on how to install HBase.
+The comparison between NoSQL (HBase) and RDBMS (Oracle SQL) databases reveals distinct advantages and trade-offs. NoSQL systems, particularly HBase, demonstrate superior performance, scalability and physical storage capabilities, making them well-suited for handling large, raw unprocessed data in big data environments. On the other hand, RDBMS systems like Oracle SQL excel in supporting complex queries, ensuring data consistency and maintaining standards and theory-based models.  
+While NoSQL databases cannot replace RDBMS entirely, they offer valuable advantages for specific applications in database management systems, especially in the context of big data. However, it's important to note that NoSQL systems lack standards, strong development environments and consistency for secure database purposes. Therefore, while NoSQL databases are advantageous in certain aspects, they are not a complete replacement for RDBMS and should be used judiciously based on specific requirements and use cases.
